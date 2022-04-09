@@ -438,6 +438,21 @@ a:focus {
 } */
 /*header section*/
 
+#hero {
+    
+  position:relative;
+  width: 100%;
+  height: auto;
+  padding: 0;  
+}  
+
+#hero .cover-pic{
+ display: block;
+ height: 90vh;
+ width: 100%;
+}
+
+/* 
 .hero_area {
   
   height: 100vh;
@@ -453,7 +468,7 @@ a:focus {
   /* background-size: cover; */
   background-position: center;
 }
-
+ */
 .sub_page .hero_area {
   height: auto;
 }
